@@ -209,5 +209,3 @@ tags
 [._]*.un~
 
 # End of https://www.toptal.com/developers/gitignore/api/linux,vim,django,venv
-
-secret.txt
